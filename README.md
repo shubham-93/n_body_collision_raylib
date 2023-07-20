@@ -1,5 +1,5 @@
 # n_body_collision_raylib
-Simulation of n particles of random masses, positions and velocities colliding elastically in 2D. Made with raylib.
+Simulation of n particles of random masses, positions and velocities colliding elastically in 2D. Made with raylib (https://github.com/raysan5/raylib).
 
 ![screenrec001](https://github.com/shubham-93/n_body_collision_raylib/assets/47306775/b833f7b8-8e43-4a13-82d6-eb7288d82013)
 
